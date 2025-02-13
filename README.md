@@ -18,5 +18,4 @@
 
 1. **Clone the repository**:  
 ```bash
-git clone https://github.com/yourusername/WhaleX-ChatBot.git
-cd WhaleX-ChatBot
+https://github.com/hussain-jawaid/CodeAlpha_ChatBot_WhaleX
