@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhaleX Fishing Charters Chatbot</title>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <div id="chatbox">
+            <h1><span>🐋</span> Hi, I'm WhaleX</h1>
+            <h4>What can I help with?</h4>
+            <!-- Chat messages will be dynamically added here through JavaScript -->
+        </div>
+        <div id="userInput">
+            <input type="text" id="inputText" placeholder="Message WhaleX">
+            <button id="inputButton"><i class="fas fa-paper-plane"></i></button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>
