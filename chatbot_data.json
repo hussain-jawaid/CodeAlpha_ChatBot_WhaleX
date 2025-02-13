@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Hi",
+    "answer": "🐋 Welcome to WhaleX Fishing Charters! How can we assist you today?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Ahoy there! Ready to reel in some big ones? How can we help?"
+  },
+  {
+    "question": "Hey",
+    "answer": "Welcome aboard WhaleX! Where fishing adventures begin. What can we do for you?"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "I'm WhaleX, your digital assistant for WhaleX Deep Sea Fishing Adventures!"
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "We specialize in deep sea fishing charters, coastal angling trips, and private fishing expeditions with full crew support."
+  },
+  {
+    "question": "Where are you located?",
+    "answer": "Our main marina is located at 123 Ocean Drive, Marina Bay, but we operate throughout the Gulf Coast region."
+  },
+  {
+    "question": "How much does a fishing trip cost?",
+    "answer": "Our standard deep sea charters start at $1,200 for a 6-hour trip. Prices vary based on duration and boat size. Would you like detailed pricing?"
+  },
+  {
+    "question": "What should I bring on a fishing trip?",
+    "answer": "We recommend sunscreen, non-marking shoes, a hat, valid ID, and your enthusiasm! We provide all fishing gear and safety equipment."
+  },
+  {
+    "question": "What time do trips depart?",
+    "answer": "Daily departures at 6:00 AM and 12:30 PM. Twilight trips available weekends at 4:00 PM."
+  },
+  {
+    "question": "How do I book a trip?",
+    "answer": "You can book online through our website, call our office at (800) 555-FISH, or message us here for assistance!"
+  },
+  {
+    "question": "Do I need a fishing license?",
+    "answer": "No worries! All required licenses and permits are included in your charter package."
+  },
+  {
+    "question": "What's your cancellation policy?",
+    "answer": "We offer full refunds for cancellations made 48 hours before departure. Weather-related cancellations get rescheduling priority."
+  },
+  {
+    "question": "What fish are in season?",
+    "answer": "Current catches include Mahi-Mahi, Sailfish, and Yellowfin Tuna. Check our monthly catch calendar for updates!"
+  },
+  {
+    "question": "Can we keep our catch?",
+    "answer": "Absolutely! We clean and package your catch. For regulated species, we follow strict conservation guidelines."
+  },
+  {
+    "question": "What safety measures do you have?",
+    "answer": "All vessels are USCG-certified with modern safety gear, EPIRB systems, and crew certified in first aid/CPR."
+  },
+  {
+    "question": "Do you provide life jackets?",
+    "answer": "Yes, we have adult and child-sized life vests available. Specialized gear can be requested in advance."
+  },
+  {
+    "question": "Can beginners join trips?",
+    "answer": "Absolutely! Our crew loves teaching newcomers. Over 35% of our clients are first-time anglers!"
+  },
+  {
+    "question": "Do you host corporate events?",
+    "answer": "Yes! We specialize in corporate retreats and team-building charters. Ask about our premium package with catering."
+  },
+  {
+    "question": "Are pets allowed?",
+    "answer": "While we love animals, only service dogs are permitted aboard for safety reasons. Thank you for understanding!"
+  },
+  {
+    "question": "Bye",
+    "answer": "Thanks for stopping by! We hope to see you on deck soon. Have a great day!"
+  },
+  {
+    "question": "Goodbye",
+    "answer": "Fair winds and following seas! Thanks for choosing WhaleX. We look forward to your next adventure!"
+  },
+  {
+    "question": "See you later",
+    "answer": "Catch you on the flip side! Stay salty and see you soon on the high seas!"
+  },
+  {
+    "question": "Thanks, bye",
+    "answer": "You're welcome! Enjoy your day and remember, the sea is always calling. Happy fishing!"
+  },
+  {
+    "question": "Talk to you soon",
+    "answer": "Absolutely, we're always here when you're ready for your next adventure. Until next time, keep your lines tight!"
+  },
+  {
+    "question": "Later",
+    "answer": "Later, mate! Thanks for chatting with WhaleX, and may the tides be ever in your favor."
+  }
+]
