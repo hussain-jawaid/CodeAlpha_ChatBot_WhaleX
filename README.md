@@ -2,7 +2,7 @@
 
 ![WhaleX Preview](assets/banner.png)  
 
-**A fishing industry chatbot** trained on custom AI-generated data to answer FAQs about trips, pricing, and more. Built with Python, Flask, and ChatterBot.  
+**A fishing industry chatbot** trained on custom AI-generated data to answer FAQs about trips, pricing, and more. Built with **Python, Flask, and ChatterBot**, and designed with **HTML, CSS, and JavaScript**.  
 
 ---
 
