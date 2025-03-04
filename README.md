@@ -14,8 +14,17 @@
 
 ---
 
+## Tech Stack 💻
+- Python
+- ChatterBot
+- Flask
+- HTML
+- CSS
+- JavaScript
+- JSON
+
 ## Installation 🛠️  
 
 1. **Clone the repository**:  
 ```bash
-https://github.com/hussain-jawaid/CodeAlpha_ChatBot_WhaleX
+git clone https://github.com/hussain-jawaid/CodeAlpha_ChatBot_WhaleX
